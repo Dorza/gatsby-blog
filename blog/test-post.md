@@ -1,6 +1,6 @@
 ---
-path: 'blog test '
-date: 2019-02-06T23:31:08.502Z
-title: test post
+path: "/blog/my-first-post"
+date: "2010-02-07"
+title: "My first blog post"
 ---
 test post
